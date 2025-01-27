@@ -2,7 +2,6 @@ header{
   border-style:solid;
   border-left:0px;
   border-right-width:20px;
-  border-right-color:pink;
   text-align:center;
   padding:8px;
   font-variant:small-caps;
@@ -19,7 +18,7 @@ header{
     border-bottom:0px;
     border-top:0px;
     border-right-width:20px;
-    border-right-color:purple;
+    border-right-color:#2F4F4F;
     float:right;
     padding:10px;
     text-align:right;
